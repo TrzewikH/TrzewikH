@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am studying CS on Warsaw University od Life Sciences.
+Trying to work my way in this field and find my path
 
 <!--
 **TrzewikH/TrzewikH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
